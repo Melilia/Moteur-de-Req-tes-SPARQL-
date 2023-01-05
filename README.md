@@ -1,1 +1,1 @@
-# Moteur-de-Req-tes-SPARQL-
+# Moteur-de-Requetes-SPARQL
